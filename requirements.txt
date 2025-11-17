@@ -1,0 +1,15 @@
+alpha_vantage
+pandas 
+matplotlib 
+numpy 
+requests
+langgraph 
+langchain-core 
+langchain-openai
+pydantic 
+typing-extensions
+duckduckgo-search 
+langchain-community
+langchain-google-genai
+langfuse
+google.genai
